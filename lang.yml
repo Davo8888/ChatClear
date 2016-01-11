@@ -15,7 +15,7 @@ MainColor: '&3'
 SecondaryColor: '&b'
 HelpMenu:
   CommandDescription:
-    mainCommand: '&cHlavni prikazy'
+    mainCommand: '&cHlavni prikaz na vycisteni chatu'
     helpCommand: '&cUkaze napovedu k prikazum'
     globalClear: '&cVycisti globalni chat!'
     personalClear: '&cVycisti tvuj chat!'
