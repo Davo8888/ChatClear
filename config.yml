@@ -1,0 +1,29 @@
+#  Lines: How many lines it will clear! 100 is recommend
+#  JoinClear: Clears the chat on join
+#  OnlyWithPermission: Only players with the permisson clearchat.joinclear will get there chat cleared on join
+#  DisplayMessageAfterClear: Send a messages after join clear
+#  AutoClear: Autoclear is a system that clears your chat after some time
+#  InGamePlayersOnly: Only players will get there chat cleared when the autoclear goes on.
+# 
+# DisplayMessageAfterClear only: %Newline%
+HelpMenu:
+  needPermission: true
+InfoMenu:
+  infoCommandToClearChatCommand: true
+Lines:
+  global: 100
+  personal: 100
+  join: 100
+  AutoClear: 100
+JoinClear:
+  Enabled: false
+  OnlyWithPermission: false
+  DisplayMessageAfterClear:
+    Enabled: false
+    Message: '&3Your chat was cleared on join'
+AutoClear:
+  Enabled: false
+  Seconds: 0
+  Minutes: 30
+  Hours: 0
+  InGamePlayersOnly: true
