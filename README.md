@@ -1,1 +1,1 @@
-# ChatClear
+# ChatClear plugin.
